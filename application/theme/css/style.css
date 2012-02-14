@@ -1,0 +1,38 @@
+body
+{
+	margin: 0px;
+}
+
+#header
+{
+	background-color: #333333;
+	border-bottom: 1px solid black;
+	position: fixed;
+	padding: 10px;
+	height: 55px;
+	width: 100%;
+}
+
+#header img
+{
+	vertical-align:middle;
+}
+
+#header form
+{
+	display: inline;
+}
+
+#header input[type="submit"]
+{
+	background-color: #E5E2D8;
+	border: 1px solid black;
+	color: #656460;
+}
+
+#content
+{
+	position: absolute;
+		top: 100px;
+}
+	
